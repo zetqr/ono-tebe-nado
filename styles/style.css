@@ -54,7 +54,7 @@
 }
 
 
-.header__adress {
+.header__address {
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -408,7 +408,7 @@
     padding-bottom: 1px;
 }
 
-.footer__adress {
+.footer__address {
         display: flex;
         flex-direction: column;
         justify-content: flex-start;

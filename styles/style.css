@@ -132,7 +132,7 @@
 
 
 .aligned-right {
-    line-height:  100px;
+    line-height: 100px;
     display: block;   
     text-align: right;
     margin-right: -31px;
@@ -374,7 +374,7 @@
 
 /* footer ----------------*/
 
-.footer { 
+.footer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     margin-top: 180px;
@@ -391,7 +391,6 @@
     font-style: normal;
     font-weight: 400;
     text-align: center;
-    text-decoration: none;
     text-decoration-line: none;
     text-decoration: none;
 }

@@ -130,16 +130,14 @@
     align-self: center;
 }
 
-
 .aligned-right {
     line-height: 100px;
-    display: block;   
+    display: block;
     text-align: right;
     margin-right: -31px;
     margin-bottom: 8px;
 }
    
-
 .cover__description {
     z-index: 0;
     display: flex;
@@ -149,7 +147,6 @@
     justify-self: flex-end;
     grid-row: 3;
     grid-column: 2;
-
 }
 
 .cover__description-text {
@@ -174,8 +171,6 @@
     text-transform: uppercase;
     border: 1px solid #fff;
 }
-
-
 
 /* lots */
 

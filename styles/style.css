@@ -401,6 +401,19 @@
     text-underline-offset: 4px;
 }
 
+
+
+.footer__menu-link {
+    text-decoration: none;
+    border-bottom: 1px solid;
+    padding-bottom: 1px;
+}
+
+.footer__menu-link_active {
+    text-decoration: none;
+    padding-bottom: 1px;
+}
+
 .footer__adress {
         display: flex;
         flex-direction: column;

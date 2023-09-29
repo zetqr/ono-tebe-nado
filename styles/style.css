@@ -142,7 +142,7 @@
 }
 
 .cover__description-text {
-    font-family: 'Raleway';
+    font-family: Raleway, sans-serif;
     font-size: 22px;
     text-transform: uppercase;
     word-spacing:  17px;
@@ -160,7 +160,7 @@
     height: 52px;
     flex-shrink: 0;
     color: #fff;
-    font-family: inherit;
+    font-family: Raleway, sans-serif;
     font-size: 22px;
     text-transform: uppercase;
     border: 1px solid #fff;

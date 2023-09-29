@@ -321,6 +321,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     margin-top: 181px;
+    margin-bottom: 90px;
     text-decoration: none;
 }
 

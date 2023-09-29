@@ -32,15 +32,15 @@
     content: "";
     width: 7px;
     height: 7px;
-    border: 1px solid #000; 
-    border-radius: 50%; 
-    margin-right: 12px; 
-    margin-top: 3px; 
+    border: 1px solid #000;
+    border-radius: 50%;
+    margin-right: 12px;
+    margin-top: 3px;
 }
 
 .header__link {
-    text-decoration: none; 
-    border-bottom: 1px solid; 
+    text-decoration: none;
+    border-bottom: 1px solid;
     padding-bottom: 1px;
 }
 
@@ -142,7 +142,7 @@
 }
 
 .cover__description-text {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway';
     font-size: 22px;
     text-transform: uppercase;
     word-spacing:  17px;
@@ -371,7 +371,7 @@
 
 .footer__menu-link {
     text-decoration: none;
-    border-bottom: 1px solid #000; 
+    border-bottom: 1px solid #000;
 }
 
 .footer__menu-link_active {

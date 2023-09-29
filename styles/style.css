@@ -203,7 +203,7 @@
     justify-content: space-between;
     color: #fff;
     width: 350px;
-    height: 350px;
+    min-height: 350px;
     margin-top: 50px;
 }
 
@@ -235,25 +235,6 @@
     font-style: normal;
     font-weight: 400;
     line-height: 120%;
-}
-
-.book .card__text {
-    margin-top: 7px;
-    flex-grow: 2;
-}
-
-.picture {
-    display: flex;
-    flex-direction: column;
-}
-
-.picture .card__title {
-    flex-grow: 1;
-}
-
-.picture .card__text {
-    margin-top: 30px;
-    flex-grow: 1;
 }
 
 .lots__look-more-link {

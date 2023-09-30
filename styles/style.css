@@ -20,7 +20,6 @@
 .header__links__list {
     display: flex;
     margin-left: 50px;
-    padding-left: 1px;
     gap: 33px;
     list-style: circle;
 }
@@ -52,11 +51,10 @@
     align-self: center;
     justify-self: end;
     margin-right: 50px;
-    padding-left: 1px;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 23.9px;
+    line-height: 24.3px;
     text-underline-offset: 4px;
     max-width: 240px;
 }
@@ -284,7 +282,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-top: 102px;
+    margin-top: 100px;
     margin-bottom: 100px;
     text-transform: uppercase;
 }
@@ -293,11 +291,11 @@
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    margin-top: 23px;
+    line-height: 23.90px;
+    margin-top: 25px;
 }
 
-/* footer ----------------*/
+/* footer -----------------*/
 
 .footer {
     display: grid;
